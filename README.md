@@ -15,7 +15,7 @@
 
 ### Programming Language: Python
 ### Frameworks and Libraries: 
-#### - Django, FastAPI, 
+ - Django, FastAPI, 
 #### - Pandas, xlsxwriter, 
 #### - PyTelegramBotAPI, aiogram, Telethon, 
 #### - requests, aiohttp, 
