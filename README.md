@@ -1,3 +1,5 @@
+theme: leap-day
+
 # PyDevNik © Official Portfolio
 ### Nikita Karagutsa
 ### Telegram: @nikitosPy
