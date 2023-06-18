@@ -1,4 +1,4 @@
-# PyDevNik (c) Official Portfolio
+# PyDevNik © Official Portfolio
 ### Nikita Karagutsa
 ### Telegram: @nikitosPy
 ### Email: nikitovicnikita028@gmail.com
