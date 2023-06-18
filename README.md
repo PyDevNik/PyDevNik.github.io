@@ -1,6 +1,7 @@
-# PyDevNik © Official Portfolio
-### Nikita Karagutsa
+## Nikita Karagutsa
+
 ### Telegram: @nikitosPy
+
 ### Email: nikitovicnikita028@gmail.com
 
 ## Experience:
@@ -15,14 +16,18 @@
 ## Skills:
 
 ### Programming Language: Python
+
 ### Frameworks and Libraries: 
 - Django, FastAPI, 
 - Pandas, xlsxwriter, 
 - PyTelegramBotAPI, aiogram, Telethon, 
 - requests, aiohttp, 
 - RabbitMQ.
+
 ### Databases: MySQL, PostgreSQL, MongoDB
+
 ### Web Technologies: HTML, CSS
+
 ### Version Control Systems: Git, GitLab, GitHub
 
 ## Additional Information:
