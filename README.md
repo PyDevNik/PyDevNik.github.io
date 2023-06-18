@@ -4,6 +4,7 @@
 ### Email: nikitovicnikita028@gmail.com
 
 ## Experience:
+
 ### Junior Python Developer at MIDA+ (April 2023 - now):
 - Developed advanced-level Telegram chatbots.
 - Participated in software design and development.
@@ -34,4 +35,4 @@
 ## Links: 
 - Telegram: [@nikitosPy](t.me/nikitosPy)
 - Github: [@PyDeNik](github.com/PyDevNik)
-- Website: [PyDevNik](pydevnik.gq)
+- Website: [PyDevNik](pydevnik.github.io)
