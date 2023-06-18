@@ -1,3 +1,5 @@
+## PyDevNik = Python Developer Nikitos
+
 ## Nikita Karagutsa
 
 ### Telegram: @nikitosPy
@@ -39,5 +41,5 @@
 
 ## Links: 
 - Telegram: [@nikitosPy](https://t.me/nikitosPy)
-- Github: [@PyDeNik](https://github.com/PyDevNik)
+- Github: [@PyDevNik](https://github.com/PyDevNik)
 - Website: [PyDevNik](https://pydevnik.github.io)
