@@ -25,11 +25,11 @@
 ### Version Control Systems: Git, GitLab, GitHub
 
 ## Additional Information:
-### - Quick and easily trainable 
-### - Good teamwork skills.
-### - Completed a lot of programming and software development courses.
-### - Adhere to the principles of SOLID, KISS, and DRY.
-### - English proficiency level: above B2.
+- Quick and easily trainable 
+- Good teamwork skills.
+- Completed a lot of programming and software development courses.
+- Adhere to the principles of SOLID, KISS, and DRY.
+- English proficiency level: above B2.
 
 ## Links: 
 - Telegram: [@nikitosPy](t.me/nikitosPy)
