@@ -38,6 +38,6 @@
 - English proficiency level: above B2.
 
 ## Links: 
-- Telegram: [@nikitosPy](t.me/nikitosPy)
-- Github: [@PyDeNik](github.com/PyDevNik)
-- Website: [PyDevNik](pydevnik.github.io)
+- Telegram: [@nikitosPy](https://t.me/nikitosPy)
+- Github: [@PyDeNik](https://github.com/PyDevNik)
+- Website: [PyDevNik](https://pydevnik.github.io)
