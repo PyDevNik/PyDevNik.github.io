@@ -20,17 +20,37 @@
 ### Programming Language: Python
 
 ### Frameworks and Libraries: 
-- Django, FastAPI, 
-- Pandas, xlsxwriter, 
-- PyTelegramBotAPI, aiogram, Telethon, 
-- requests, aiohttp, 
-- RabbitMQ.
+- Django - ⭐⭐⭐,
+- FastAPI - ⭐⭐⭐⭐, 
+- Pandas - ⭐⭐⭐⭐⭐, 
+- PyTelegramBotAPI - ⭐⭐⭐⭐,
+- aiogram - ⭐⭐⭐⭐⭐,
+- Telethon - ⭐⭐⭐, 
+- requests - ⭐⭐⭐⭐⭐,
+- aiohttp - ⭐⭐⭐, 
+- RabbitMQ - ⭐⭐.
 
-### Databases: MySQL, PostgreSQL, MongoDB
+### Databases: 
+- SQLAlchemy - ⭐⭐⭐,
+- MongoDB - ⭐⭐⭐⭐⭐.
 
-### Web Technologies: HTML, CSS
 
-### Version Control Systems: Git, GitLab, GitHub
+### Web Technologies: 
+- HTML - ⭐⭐⭐⭐,
+- CSS - ⭐⭐⭐.
+
+### Version Control Systems: 
+- Git - ⭐⭐⭐⭐,
+- GitLab - ⭐⭐⭐,
+- GitHub - ⭐⭐⭐⭐.
+
+## Projects: 
+- text2sql - AI based on LangChain tpo convert Natural Language to SQL queries
+- tgr-purchase - python module for purchasing TGR (can be used as WordPress PHP Plugin)
+- mail-ru-stat-bot - Telegram Bot for getting mail statistics for domain (using mail.ru RESTul API)
+- pydevcoin - simple cryptocoin system integrated with MongoDB
+- database-exporter - module for exporting table to MongoDB
+### More projects are avialable on Github
 
 ## Additional Information:
 - Quick and easily trainable 
