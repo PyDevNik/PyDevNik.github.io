@@ -25,7 +25,8 @@
 - Pandas - ⭐⭐⭐⭐⭐, 
 - PyTelegramBotAPI - ⭐⭐⭐⭐,
 - aiogram - ⭐⭐⭐⭐⭐,
-- Telethon - ⭐⭐⭐, 
+- Telethon - ⭐⭐⭐,
+- TensorFlow - ⭐⭐⭐⭐,
 - requests - ⭐⭐⭐⭐⭐,
 - aiohttp - ⭐⭐⭐, 
 - RabbitMQ - ⭐⭐.
@@ -45,6 +46,7 @@
 - GitHub - ⭐⭐⭐⭐.
 
 ## Projects: 
+- cryptobt - AI for getting predicts of bitcoin price
 - text2sql - AI based on LangChain tpo convert Natural Language to SQL queries
 - tgr-purchase - python module for purchasing TGR (can be used as WordPress PHP Plugin)
 - mail-ru-stat-bot - Telegram Bot for getting mail statistics for domain (using mail.ru RESTul API)
