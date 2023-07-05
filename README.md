@@ -20,38 +20,46 @@
 ### Programming Language: Python
 
 ### Frameworks and Libraries: 
-- Django - ⭐⭐⭐,
-- FastAPI - ⭐⭐⭐⭐, 
-- Pandas - ⭐⭐⭐⭐⭐, 
-- PyTelegramBotAPI - ⭐⭐⭐⭐,
-- aiogram - ⭐⭐⭐⭐⭐,
-- Telethon - ⭐⭐⭐,
-- TensorFlow - ⭐⭐⭐⭐,
-- requests - ⭐⭐⭐⭐⭐,
-- aiohttp - ⭐⭐⭐, 
-- RabbitMQ - ⭐⭐.
+- `Django` - ⭐⭐⭐,
+- `FastAPI` - ⭐⭐⭐⭐, 
+- `Pandas` - ⭐⭐⭐⭐⭐, 
+- `PyTelegramBotAPI` - ⭐⭐⭐⭐,
+- `aiogram` - ⭐⭐⭐⭐⭐,
+- `Telethon` - ⭐⭐⭐,
+- `TensorFlow` - ⭐⭐⭐⭐,
+- `requests` - ⭐⭐⭐⭐⭐,
+- `aiohttp` - ⭐⭐⭐, 
+- `RabbitMQ` - ⭐⭐.
 
 ### Databases: 
-- SQLAlchemy - ⭐⭐⭐,
-- MongoDB - ⭐⭐⭐⭐⭐.
-
+- `SQLAlchemy` - ⭐⭐⭐,
+- `MongoDB` - ⭐⭐⭐⭐⭐,
+- `Redis` - ⭐⭐⭐⭐.
 
 ### Web Technologies: 
-- HTML - ⭐⭐⭐⭐,
-- CSS - ⭐⭐⭐.
+- `HTML` - ⭐⭐⭐⭐,
+- `CSS` - ⭐⭐⭐.
 
 ### Version Control Systems: 
-- Git - ⭐⭐⭐⭐,
-- GitLab - ⭐⭐⭐,
-- GitHub - ⭐⭐⭐⭐.
+- `Git` - ⭐⭐⭐⭐,
+- `GitLab` - ⭐⭐⭐,
+- `GitHub` - ⭐⭐⭐⭐.
+
+### Deployment:
+- `Docker` - ⭐⭐⭐⭐,
+- `Kubernetes` - ?
+
+`#` TODO: Learn Kubernetes
 
 ## Projects: 
-- cryptobt - AI for getting predicts of bitcoin price
-- text2sql - AI based on LangChain tpo convert Natural Language to SQL queries
-- tgr-purchase - python module for purchasing TGR (can be used as WordPress PHP Plugin)
-- mail-ru-stat-bot - Telegram Bot for getting mail statistics for domain (using mail.ru RESTul API)
-- pydevcoin - simple cryptocoin system integrated with MongoDB
-- database-exporter - module for exporting table to MongoDB
+- `social-network` - FastAPI RESTful API with MongoDB and PyDantic Schemas
+- `cryptobot` - simple AI for getting predicts of bitcoin price
+- `text2sql` - simple AI based on LangChain to convert Natural Language to SQL queries
+- `tegro-money` - Python Module for integrating with `tegro.money` API
+- `tgr-purchase` - Python module for purchasing TGR (can be used as WordPress PHP Plugin)
+- `mail-ru-stat-bot` - Telegram Bot for getting mail statistics for domain (using mail.ru RESTul API)
+- `pydevcoin` - simple cryptocoin system integrated with MongoDB
+- `database-exporter` - module for exporting table to MongoDB
 ### More projects are avialable on Github
 
 ## Additional Information:
