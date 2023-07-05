@@ -47,9 +47,8 @@
 
 ### Deployment:
 - `Docker` - ⭐⭐⭐⭐,
-- `Kubernetes` - ?
-
-`#` TODO: Learn Kubernetes
+- `Nginx` - ⭐⭐⭐⭐,
+- `Kubernetes` - ⭐⭐⭐.
 
 ## Projects: 
 - `social-network` - FastAPI RESTful API with MongoDB and PyDantic Schemas
@@ -63,13 +62,13 @@
 ### More projects are avialable on Github
 
 ## Additional Information:
-- Quick and easily trainable 
+- Quick and easily trainable.
 - Good teamwork skills.
 - Completed a lot of programming and software development courses.
-- Adhere to the principles of SOLID, KISS, and DRY.
-- English proficiency level: above B2.
+- Adhere to the principles of `SOLID`, `KISS`, and `DRY`.
+- English proficiency level: above `B2`.
 
 ## Links: 
-- Telegram: [@nikitosPy](https://t.me/nikitosPy)
-- Github: [@PyDevNik](https://github.com/PyDevNik)
-- Website: [PyDevNik](https://pydevnik.github.io)
+- `Telegram`: [@nikitosPy](https://t.me/nikitosPy)
+- `Github`: [@PyDevNik](https://github.com/PyDevNik)
+- `Website`: [PyDevNik](https://pydevnik.github.io)
