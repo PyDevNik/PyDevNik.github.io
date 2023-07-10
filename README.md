@@ -1,4 +1,4 @@
-## PyDevNik = Python Developer Nikitos
+## PyDevNik = Python Developer Nikita
 
 ## Nikita Karagutsa
 
@@ -51,6 +51,9 @@
 - `Kubernetes` - ⭐⭐⭐.
 
 ## Projects: 
+- `todo-app` - Soon!
+- `chat-api` - RESTful API for Chat App
+- `admin-api` - FastAPI app for uploading, reading, editing and deleting files
 - `social-network` - FastAPI RESTful API with MongoDB and PyDantic Schemas
 - `cryptobot` - simple AI for getting predicts of bitcoin price
 - `text2sql` - simple AI based on LangChain to convert Natural Language to SQL queries
