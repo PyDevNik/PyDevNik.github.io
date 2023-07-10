@@ -51,7 +51,7 @@
 - `Kubernetes` - ⭐⭐⭐.
 
 ## Projects: 
-- `todo-app` - Soon!
+- `todos-app` - FullStack App with Docker/Kubernetes/Nginx deploy
 - `chat-api` - RESTful API for Chat App
 - `admin-api` - FastAPI app for uploading, reading, editing and deleting files
 - `social-network` - FastAPI RESTful API with MongoDB and PyDantic Schemas
