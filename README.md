@@ -1,77 +1,69 @@
-## PyDevNik = Python Developer Nikita
+📂 **PyDevNik © Official Portfolio**
+   - 👨‍💻 PyDevNik = Python Developer Nikita
+   - 👤 Nikita Karagutsa
+   - 📞 Telegram: @nikitosPy
+   - 📧 Email: nikitovicnikita028@gmail.com
 
-## Nikita Karagutsa
+🔧 **Experience:**
+   - 💼 Junior Python Developer at MIDA+ (April 2023 - now)
+     - 🤖 Developed advanced-level Telegram chatbots.
+     - 🔨 Participated in software design and development.
+     - 👥 Worked collaboratively in a team of developers to achieve project goals.
+     - 🐞 Tested and debugged software code.
+     - 🖥️ Utilized Python, FastAPI, Pandas, PyTelegramBotAPI, and other relevant technologies.
 
-### Telegram: @nikitosPy
+🔧 **Skills:**
+   - 💻 Programming Language: 🐍
+   - 📚 Frameworks and Libraries:
+     - 🌐 Django - ⭐⭐⭐
+     - ⚡ FastAPI - ⭐⭐⭐⭐
+     - 🐼 Pandas - ⭐⭐⭐⭐⭐
+     - 🤖 PyTelegramBotAPI - ⭐⭐⭐⭐
+     - 💬 aiogram - ⭐⭐⭐⭐⭐
+     - 📞 Telethon - ⭐⭐⭐
+     - 🧠 TensorFlow - ⭐⭐⭐⭐
+     - 🌐 requests - ⭐⭐⭐⭐⭐
+     - 🕸️ aiohttp - ⭐⭐⭐
+     - 🐰 RabbitMQ - ⭐⭐
+   - 🗄️ Databases:
+     - 💽 SQLAlchemy - ⭐⭐⭐
+     - 🍃 MongoDB - ⭐⭐⭐⭐⭐
+     - 🔒 Redis - ⭐⭐⭐⭐
+   - 🌐 Web Technologies:
+     - 🌐 HTML - ⭐⭐⭐⭐
+     - 🎨 CSS - ⭐⭐⭐
+   - 📂 Version Control Systems:
+     - 🌲 Git - ⭐⭐⭐⭐
+     - 🦊 GitLab - ⭐⭐⭐
+     - 🐙 GitHub - ⭐⭐⭐⭐
+   - 🚀 Deployment:
+     - 🐳 Docker - ⭐⭐⭐⭐
+     - 🌐 Nginx - ⭐⭐⭐⭐
+     - ☸️ Kubernetes - ⭐⭐⭐
 
-### Email: nikitovicnikita028@gmail.com
+🔧 **Projects:**
+   - 🔗 [link-shortener](https://github.com/PyDevNik/link-shortener) - RESTful API for Link Shortener
+   - 📝 [todos-app](https://github.com/PyDevNik/todos-app) - FullStack Todos App - 🐳/☸️/🌐.
+   - 💬 [chat-api](https://github.com/PyDevNik/chat-api) - RESTful API for Chat App
+   - 📊 [admin-api](https://github.com/PyDevNik/admin-api) - FastAPI app for uploading, reading, editing, and deleting files
+   - 🌐 [social-network](https://github.com/PyDevNik/social-network) - FastAPI RESTful API with MongoDB and PyDantic Schemas
+   - 💰 [cryptobot](https://github.com/PyDevNik/cryptobot) - Simple AI for getting predictions of bitcoin price
+   - 📝 [text2sql](https://github.com/PyDevNik/text2sql) - Simple AI based on LangChain to convert Natural Language to SQL queries
+   - 💳 [tegro-money](https://github.com/PyDevNik/tegro-money) - Python Module for integrating with tegro.money API
+   - 🛒 [tgr-purchase](https://github.com/PyDevNik/tgr-purchase) - Python module for purchasing TGR (can be used as WordPress PHP Plugin)
+   - 📬 [mail-ru-stat-bot](https://github.com/PyDevNik/mail-ru-stat-bot) - Telegram Bot for getting mail statistics for domain (using mail.ru RESTful API)
+   - 💰 [pydevcoin](https://github.com/PyDevNik/pydevcoin) - Simple cryptocurrency system integrated with MongoDB
+   - 📂 [database-exporter](https://github.com/PyDevNik/database-exporter) - Module for exporting tables to MongoDB
+   - More projects are available on 🐙 GitHub
 
-## Experience:
+🔧 **Additional Information:**
+   - 🎯 Quick and easily trainable.
+   - 👥 Good teamwork skills.
+   - 📚 Completed a lot of programming and software development courses.
+   - 🔒 Adhere to the principles of SOLID, KISS, and DRY.
+   - 🌍 English proficiency level: above B2.
 
-### Junior Python Developer at MIDA+ (April 2023 - now):
-- Developed advanced-level Telegram chatbots.
-- Participated in software design and development.
-- Worked collaboratively in a team of developers to achieve project goals.
-- Tested and debugged software code.
-- Utilized Python, FastAPI, Pandas, PyTelegramBotAPI, and other relevant technologies.
-
-## Skills:
-
-### Programming Language: Python
-
-### Frameworks and Libraries: 
-- `Django` - ⭐⭐⭐,
-- `FastAPI` - ⭐⭐⭐⭐, 
-- `Pandas` - ⭐⭐⭐⭐⭐, 
-- `PyTelegramBotAPI` - ⭐⭐⭐⭐,
-- `aiogram` - ⭐⭐⭐⭐⭐,
-- `Telethon` - ⭐⭐⭐,
-- `TensorFlow` - ⭐⭐⭐⭐,
-- `requests` - ⭐⭐⭐⭐⭐,
-- `aiohttp` - ⭐⭐⭐, 
-- `RabbitMQ` - ⭐⭐.
-
-### Databases: 
-- `SQLAlchemy` - ⭐⭐⭐,
-- `MongoDB` - ⭐⭐⭐⭐⭐,
-- `Redis` - ⭐⭐⭐⭐.
-
-### Web Technologies: 
-- `HTML` - ⭐⭐⭐⭐,
-- `CSS` - ⭐⭐⭐.
-
-### Version Control Systems: 
-- `Git` - ⭐⭐⭐⭐,
-- `GitLab` - ⭐⭐⭐,
-- `GitHub` - ⭐⭐⭐⭐.
-
-### Deployment:
-- `Docker` - ⭐⭐⭐⭐,
-- `Nginx` - ⭐⭐⭐⭐,
-- `Kubernetes` - ⭐⭐⭐.
-
-## Projects: 
-- `todos-app` - FullStack App with Docker/Kubernetes/Nginx deploy
-- `chat-api` - RESTful API for Chat App
-- `admin-api` - FastAPI app for uploading, reading, editing and deleting files
-- `social-network` - FastAPI RESTful API with MongoDB and PyDantic Schemas
-- `cryptobot` - simple AI for getting predicts of bitcoin price
-- `text2sql` - simple AI based on LangChain to convert Natural Language to SQL queries
-- `tegro-money` - Python Module for integrating with `tegro.money` API
-- `tgr-purchase` - Python module for purchasing TGR (can be used as WordPress PHP Plugin)
-- `mail-ru-stat-bot` - Telegram Bot for getting mail statistics for domain (using mail.ru RESTul API)
-- `pydevcoin` - simple cryptocoin system integrated with MongoDB
-- `database-exporter` - module for exporting table to MongoDB
-### More projects are avialable on Github
-
-## Additional Information:
-- Quick and easily trainable.
-- Good teamwork skills.
-- Completed a lot of programming and software development courses.
-- Adhere to the principles of `SOLID`, `KISS`, and `DRY`.
-- English proficiency level: above `B2`.
-
-## Links: 
-- `Telegram`: [@nikitosPy](https://t.me/nikitosPy)
-- `Github`: [@PyDevNik](https://github.com/PyDevNik)
-- `Website`: [PyDevNik](https://pydevnik.github.io)
+🔗 **Links:**
+   - [📞 Telegram](https://t.me/nikitosPy)
+   - [🐙 GitHub](https://github.com/PyDevNik)
+   - [🌐 Portfolio](https://PyDevNik.github.io)
