@@ -42,6 +42,7 @@
      - ☸️ Kubernetes - ⭐⭐⭐
 
 🔧 **Projects:**
+   - 📨 [discord-to-telegram](https://github.com/PyDevNik/discord-to-telegram) - Message forwarder from discord to telegram (RU)
    - 🔗 [link-shortener](https://github.com/PyDevNik/link-shortener) - RESTful API for Link Shortener
    - 📝 [todos-app](https://github.com/PyDevNik/todos-app) - FullStack Todos App - 🐳/☸️/🌐.
    - 💬 [chat-api](https://github.com/PyDevNik/chat-api) - RESTful API for Chat App
