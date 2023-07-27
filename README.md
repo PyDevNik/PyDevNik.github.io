@@ -16,7 +16,8 @@
    - 💻 Programming Language: 🐍
    - 📚 Frameworks and Libraries:
      - 🌐 Django - ⭐⭐⭐
-     - ⚡ FastAPI - ⭐⭐⭐⭐
+     - ⚡ FastAPI - ⭐⭐⭐⭐⭐
+     - 🔗 Flask - ⭐⭐⭐⭐
      - 🐼 Pandas - ⭐⭐⭐⭐⭐
      - 🤖 PyTelegramBotAPI - ⭐⭐⭐⭐
      - 💬 aiogram - ⭐⭐⭐⭐⭐
@@ -37,6 +38,7 @@
      - 🦊 GitLab - ⭐⭐⭐
      - 🐙 GitHub - ⭐⭐⭐⭐
    - 🚀 Deployment:
+     - 🐧 Linux - ⭐⭐⭐⭐
      - 🐳 Docker - ⭐⭐⭐⭐
      - 🌐 Nginx - ⭐⭐⭐⭐
      - ☸️ Kubernetes - ⭐⭐⭐
@@ -51,7 +53,8 @@
    - 💰 [cryptobot](https://github.com/PyDevNik/cryptobot) - Simple AI for getting predictions of bitcoin price
    - 📝 [text2sql](https://github.com/PyDevNik/text2sql) - Simple AI based on LangChain to convert Natural Language to SQL queries
    - 💳 [tegro-money](https://github.com/PyDevNik/tegro-money) - Python Module for integrating with tegro.money API
-   - 🛒 [tgr-purchase](https://github.com/PyDevNik/tgr-purchase) - Python module for purchasing TGR (can be used as WordPress PHP Plugin)
+   - 🛒 [tgr-purchase](https://github.com/PyDevNik/tgr-purchase) - Python module for purchasing TGR (WordPress PHP Plugin)
+   - 🤖 [trx-purchase](https://github.com/PyDevNik/trx-purchase) — Telegram Bot for purchasing TRX
    - 📬 [mail-ru-stat-bot](https://github.com/PyDevNik/mail-ru-stat-bot) - Telegram Bot for getting mail statistics for domain (using mail.ru RESTful API)
    - 💰 [pydevcoin](https://github.com/PyDevNik/pydevcoin) - Simple cryptocurrency system integrated with MongoDB
    - 📂 [database-exporter](https://github.com/PyDevNik/database-exporter) - Module for exporting tables to MongoDB
