@@ -38,8 +38,9 @@
 - *🌐 Web Technologies*:
   - 📃 HTML - ⭐⭐⭐⭐
   - 🎨 CSS - ⭐⭐⭐
-  - ✍🏻 JavaScript - ⭐⭐
-  - ☢ React - ⭐⭐
+  - 📡 HTMX - ⭐⭐⭐⭐
+  - ✍🏻 JavaScript - ⭐⭐⭐
+  - 🛠️ Bootstrap - ⭐⭐⭐
 - *🚀 Deployment*:
   - 🐧 Linux - ⭐⭐⭐⭐
   - 🐳 Docker - ⭐⭐⭐⭐
@@ -47,10 +48,7 @@
   - ☸️ Kubernetes - ⭐⭐⭐
 
 🔧 **Projects:**
-
-🔜 **Coming soon!**
 - ***[NikitOS](https://github.com/PyDevNik/NikitOS)*** - 🖥️💿 OS built with Assembler and C
-  
 - ***[discord-to-telegram](https://github.com/PyDevNik/discord-to-telegram)*** - 📤📥 Forwards messages from Discord to Telegram (RU)
 - ***[link-shortener](https://github.com/PyDevNik/link-shortener)*** - 🔗🌐 RESTful API for Link Shortener
 - ***[todos-app](https://github.com/PyDevNik/todos-app)*** - ✅📝🌐 FullStack Todos App - Docker/Kubernetes/Web
