@@ -14,9 +14,15 @@
   - 🖥️ Utilized Python, FastAPI, Pandas, PyTelegramBotAPI, and other relevant technologies.
 
 🔧 **Skills:**
-- *💻 Programming Language*: ***Python*** 🐍
+- *💻 Programming Languages*:
+  - ***Python*** 🐍,
+  - ***C*** 🏅,
+  - ***C++*** ➕,
+  - ***Go*** 📇,
+  - ***JS*** 🌟,
+  - ***Mojo*** 🔥
 - *📚 Frameworks and Libraries*:
-  - 🌐 Django - ⭐⭐⭐
+  - 🌐 Django - ⭐⭐⭐⭐
   - ⚡ FastAPI - ⭐⭐⭐⭐⭐
   - 🔗 Flask - ⭐⭐⭐⭐
   - 🐼 Pandas - ⭐⭐⭐⭐⭐
