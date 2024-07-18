@@ -6,7 +6,8 @@
 *📧 Email: `nikitovicnikita028@gmail.com`*
 
 🔧 **Experience:**
-- 💼 Junior Python Developer at **MIDA+** (April 2023 - January 2024)
+- 🌐 Backend Python Developer at **DNS Technologies** (July 2022 - May 2024)
+- 💼 Junior Python Developer at **MIDA+** (April 2021 - January 2022)
   - 🤖 Developed advanced-level Telegram chatbots.
   - 🔨 Contributed to software design and development.
   - 👥 Worked collaboratively in a team of developers to achieve project goals.
