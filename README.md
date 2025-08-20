@@ -2,7 +2,7 @@
 
 _👨‍💻 PyDevNik = Python Developer Nikita_  
 _👤 Nikita Karagutsa_  
-_📞 Telegram: [@nikitosPy](https://t.me/nikitosPy)_  
+_📞 Telegram: [@nikitosPyt](https://t.me/nikitosPyt)_  
 _📧 Email: `nikitovicnikita028@gmail.com`_
 
 🔧 **Experience:**
